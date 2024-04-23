@@ -15,11 +15,11 @@ const Goal = () => {
     <div className="us">
     <h1>Our Goal</h1>
     </div>
-    <div className="about">
+    <div className="goal">
       <br /><br />
-      Building Businesses, Bringing the World to You: A Message from <b>Arun Kannattu Xavier</b>
+      <h4>Building Businesses, Bringing the World to You:</h4> A Message from <b><h2>Arun Kannattu Xavier</h2> </b>
 
-        Hi there,
+        <p>Hi there,
 
         I'm Arun Kannattu Xavier, Director of Global Wholesale UK.  Like many of you, I'm passionate about the dynamic world of wholesale.  For over a decade, I've dedicated myself to building successful businesses, and for the past few years, my focus has been right here in the exciting UK market.  That's why I'm thrilled to be leading Global Wholesale UK – a company committed to delivering a world of opportunity to your doorstep.
 
@@ -34,6 +34,7 @@ const Goal = () => {
         Let's Partner for Success!
 
         Whether you're a seasoned pro or just starting your wholesale journey, I'm always happy to discuss your needs.  We're here to help you find the perfect products to take your business to the next level.  Contact me today at [email address removed] or visit our website for more information.
+        </p>
         </div>
     <div className="footer">
     <Footer />
