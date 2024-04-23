@@ -16,7 +16,7 @@ const Home = () => {
               <h2>Welcome To</h2>
               <h1>Global Wholesale UK Ltd.</h1>
               <p>"Your One-Stop Shop for Imported and Local Goods!"</p>
-                <a href="/about"><button>Read More</button></a>
+                <Link to="/about"><button>Read More</button></Link>
             </div>
             <div class="image">
               <img src={HomeImg} alt="featured"></img>
