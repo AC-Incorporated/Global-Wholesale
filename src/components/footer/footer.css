@@ -17,3 +17,22 @@
     scale: 1 1;
   }
 }
+.footer-content{
+  text-align: center;
+  padding: 10px;
+  margin: 0 !important;
+}
+
+.footer-content h2{
+  color: #f72a2a;
+  margin: 0;
+}
+
+.footer-content h1{
+  margin: 0;
+  font-size: larger;
+}
+
+.footer-content h4{
+  margin: 0;
+}

@@ -28,14 +28,14 @@ const Nav = () => {
               <li class="hide-on-mobile"><Link to="/">Home </Link></li>
               <li class="hide-on-mobile"><Link to="/about">About</Link></li>
               <li class="hide-on-mobile"><Link to="/Goal">Goal</Link></li>
-              <li class="hide-on-mobile"><Link to="/info">Shop</Link></li>
+              <li class="hide-on-mobile"><Link to="/shop">Shop</Link></li>
               <li class="menu-btn" onClick={showSidebar}><Link to="#"><HiOutlineMenuAlt1 /></Link></li>
             </ul>
             <ul class="sidebar">
               <li onClick={hideSidebar}><Link to="#"><PiEyeClosedBold /> </Link></li>
               <li><Link to="/">Home </Link></li>
               <li><Link to="/about">About Us</Link></li>
-              <li><Link to="/history">Goal</Link></li>
+              <li><Link to="/Goal">Goal</Link></li>
               <li><Link to="/info">Shop</Link></li>
             </ul>
           </div>
