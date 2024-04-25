@@ -32,6 +32,8 @@
 @media (max-width: 1000px) {
   .us {
     margin-top: 0;
+    margin-bottom: 7%;
+
   }
   .us .person {
     margin-bottom: 40px;
